@@ -248,6 +248,7 @@ body {
 
 
 /* this code is destop mode */
+/*
 @media screen and (min-width: 600px) {
   #nav{
     padding: 0;
@@ -418,3 +419,4 @@ body {
     width: 40px;
   }
 }
+*/
